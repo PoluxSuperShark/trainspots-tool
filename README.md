@@ -25,4 +25,4 @@
 
 1. Vérifie que **Apache** est bien démarré.
 2. Ouvre ton navigateur.
-3. Va sur :
+3. Va sur : `localhost/index.php`
