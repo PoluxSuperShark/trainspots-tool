@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="d-flex justify-content-between align-items-center mb-4">
 
         <div>
-            <h1 class="mb-0"><a href="/index.php">Accueil</a></h1>
+            <h1 class="mb-0"><a href="/index.php">LTAP</a></h1>
             <small class="text-muted">Ajoute un contenu ferroviaire</small>
         </div>
 
