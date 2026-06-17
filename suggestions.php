@@ -125,7 +125,7 @@ $typeLabels = [
     <div class="d-flex justify-content-between align-items-center mb-4">
 
         <div>
-            <h1 class="mb-0"><a href="/index.php">Accueil</a></h1>
+            <h1 class="mb-0"><a href="/index.php">LTAP</a></h1>
             <h2 class="text-muted">Gestion des contenus</h2>
             <p>Valider quand la vidéo est tournée, supprimer une fois en ligne (visible)</p>
         </div>
